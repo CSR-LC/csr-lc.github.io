@@ -1,0 +1,1 @@
+import{Ca as i,hd as r,u as o,z as e}from"./chunk-GAGBV5NF.js";var c=(()=>{class t{static{this.\u0275fac=function(m){return new(m||t)}}static{this.\u0275mod=e({type:t})}static{this.\u0275inj=o({imports:[i,r]})}}return t})();export{c as a};
